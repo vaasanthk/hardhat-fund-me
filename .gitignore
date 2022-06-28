@@ -1,0 +1,18 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+deployments
+
+#Hardhat files
+cache
+artifacts
+
+# Infura Rinkeby  : https://rinkeby.infura.io/v3/495e35600af2475f90380a5a636cb6c7
+# Alchemy Rinkeby : https://eth-rinkeby.alchemyapi.io/v2/XT8zqLlO10NadoP7ZIjCbv5_f_Uz-GV6
+# Moralis Rinkeby : https://speedy-nodes-nyc.moralis.io/f14b644aa182d9b7e208a26b/eth/rinkeby
+
+# Infura Goerli  : https://goerli.infura.io/v3/495e35600af2475f90380a5a636cb6c7
+# Alchemy Goerli : https://eth-goerli.alchemyapi.io/v2/XT8zqLlO10NadoP7ZIjCbv5_f_Uz-GV6
+# Moralis Goerli : https://speedy-nodes-nyc.moralis.io/f14b644aa182d9b7e208a26b/eth/rinkeby
