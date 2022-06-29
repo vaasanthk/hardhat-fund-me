@@ -22,6 +22,11 @@ A crowd funding Dapp is being developed for this project. The purpose of this pr
 - [Advance tasks](#advanced-sample-hardhat-tasks)
 - [Thank you!](#thank-you)
 
+# Built With
+* [Node.js](https://nodejs.org/en/)
+* [Solidity](https://docs.soliditylang.org/en/v0.8.15/)
+
+
 # Getting Started
 
 ## Requirements
